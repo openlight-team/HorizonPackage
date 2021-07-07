@@ -48,7 +48,7 @@ namespace HorizonPackage
                     Console.ForegroundColor = ConsoleColor.White;
 
                     // kill the OS
-                    foreach (Process proc in Process.GetProcessesByName("HorizonOS"))
+                    foreach (Process proc in Process.GetProcessesByName("Horizon64"))
                     {
                         proc.Kill();
                     }
