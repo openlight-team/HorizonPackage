@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HorizonPackage": {
+      "commandName": "Project",
+      "commandLineArgs": "update"
+    }
+  }
+}
